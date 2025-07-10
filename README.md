@@ -11,7 +11,8 @@
 - `cooler zoomify CHLA90-Cas9.10k.cool`
 
 ### Copying .mcool to local desktop to avoid using singularity container
-- copying into `higlass-data` `scp apatinop@splprhpc12:/research_jude/.../CHLA90-Cas9.10k.mcool ~/higlass-data/`
+- copying into `higlass-data`
+- `scp apatinop@splprhpc12:/research_jude/.../CHLA90-Cas9.10k.mcool ~/higlass-data/`
 
 ### Installing docker 
 - make sure brew is installed
